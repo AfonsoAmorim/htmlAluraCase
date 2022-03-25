@@ -9,7 +9,19 @@ h1{
     text-align: center;
 }
 
-p{
+.paragrafo{
     background-color: yellow;
-    text-align: center;
+    
+}
+
+#foto{
+    width: 85%;
+    border: 10px solid blueviolet;
+}
+
+h2{
+    background-color: brown;
+    color: bisque;
+    border:10000%;
+    width: auto;
 }
