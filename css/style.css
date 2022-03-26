@@ -19,9 +19,34 @@ h1{
     border: 10px solid blueviolet;
 }
 
+#foto2{
+    width: 80%;
+    border: 10px dotted red;
+    
+    
+}
 h2{
     background-color: brown;
     color: bisque;
     border:10000%;
     width: auto;
+    
+}
+
+h3{
+    text-align: center;
+    font-size: 20px;
+}
+
+h4{
+    color:black;
+    border: 2px solid green;
+
+}
+.vantagens{
+    background-color: white;
+}
+
+li.itens {
+    list-style-type:circle;
 }
