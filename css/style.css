@@ -22,7 +22,7 @@ h1{
 #foto2{
     width: 80%;
     border: 10px dotted red;
-    
+    display: inline-block;
     
 }
 h2{
